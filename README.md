@@ -31,7 +31,7 @@ The chatbot responds to predefined user inputs such as greetings, questions, and
 1. Clone the repository
 
 ```bash
-git clone https://github.com/YourUsername/CodeAlpha_BasicChatbot.git
+git clone https://github.com/Mandeepsharma123/CodeAlpha_BasicChatbot.git
 ```
 
 2. Open the project folder
